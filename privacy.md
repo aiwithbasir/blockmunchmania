@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Block Munch Mania Privacy Policy
+title: Privacy Policy
 ---
 **Last Updated:** February 7, 2026
 
