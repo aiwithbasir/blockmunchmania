@@ -1,3 +1,7 @@
+---
+layout: page
+title: Privacy Policy
+---
 **Last Updated:** February 7, 2026
 
 ## Overview
