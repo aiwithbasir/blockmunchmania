@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Privacy Policy
+title: Block Munch Mania Privacy Policy
 ---
 **Last Updated:** February 7, 2026
 
@@ -47,7 +47,7 @@ We may update this Privacy Policy occasionally. Changes will be posted on this p
 
 ## Contact Us
 If you have questions about this Privacy Policy, contact us at:
-- Email: [your-email@aiwithbasir.com]
+- Email: [aiwithbasir@gmail.com]
 - Website: https://aiwithbasir.com
 
 ---
