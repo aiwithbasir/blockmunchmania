@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Privacy Policy
+title: Home Page
 ---
 
 BloQi is a daily competitive block puzzle — one fresh puzzle drops every 24 hours and every player worldwide gets the same one. Drop blocks, clear lines, chain combos, and climb the leaderboard.
